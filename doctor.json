@@ -1,0 +1,9 @@
+{
+  "Doctor":[
+      { "id":"101", "name":"Aarthy","email":"aarthy@gmail.com","contactNr":"9940093723","specialization":"Nerve"},
+      { "id":"102", "name":"Santina","email":"Santina@gmail.com","contactNr":"9940137235","specialization":"cardio"},
+      { "id":"103", "name":"Varun","email":"varun@gmail.com","contactNr":"9940137235","specialization":"Skin"},
+      { "id":"104", "name":"Nitin","email":"nitin@gmail.com","contactNr":"9940137235","specialization":"Brain"}
+  ]
+
+}
